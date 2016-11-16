@@ -18,8 +18,6 @@
     "gulp-concat": "^2.6.0",
     "gulp-sass": "^2.3.2",
     "gulp-scss": "^1.4.0",
-    "jQuery": "^1.7.4",
-    "jquery": "^3.1.1",
     "mongodb": "^2.2.11",
     "node-redis-pubsub": "^0.9.0",
     "react": "^15.3.2",
